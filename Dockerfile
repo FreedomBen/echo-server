@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/ruby-25
+FROM registry.access.redhat.com/ubi8/ruby-27
 
 ENV VERSION 1.0.0
 
